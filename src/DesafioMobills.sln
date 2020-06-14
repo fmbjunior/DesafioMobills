@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioMobills.WebApi", "DesafioMobills.WebApi\DesafioMobills.WebApi.csproj", "{E479C812-D76B-440B-975B-8D2AA3296E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E479C812-D76B-440B-975B-8D2AA3296E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E479C812-D76B-440B-975B-8D2AA3296E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E479C812-D76B-440B-975B-8D2AA3296E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E479C812-D76B-440B-975B-8D2AA3296E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D1B0B7-3BFC-4E1D-81DD-7735F18525B5}
+	EndGlobalSection
+EndGlobal
